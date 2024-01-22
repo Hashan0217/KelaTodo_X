@@ -1,0 +1,30 @@
+{
+  "name": "kelatodox-server",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Hashan",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-redis": "^6.0.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-jwt": "^6.0.0",
+    "express-session": "^1.17.2",
+    "http-errors": "~1.6.3",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "~1.9.1",
+    "mysql": "^2.18.1",
+    "node-uuid": "^1.4.8",
+    "nodemailer": "^6.9.7",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "pug": "2.0.0-beta11",
+    "redis": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
