@@ -1,0 +1,51 @@
+{
+  "id": "4383764",
+  "name": "KelaTodo-X-Web",
+  "font_family": "iconfont",
+  "css_prefix_text": "kelaIcot-",
+  "description": "KelaTodo-X WEB端 Icont",
+  "glyphs": [
+    {
+      "icon_id": "2045907",
+      "name": "熊猫秘书",
+      "font_class": "weibiaoti-",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "6945001",
+      "name": "大熊猫监测记录",
+      "font_class": "daxiongmaojiancejilu",
+      "unicode": "e7a4",
+      "unicode_decimal": 59300
+    },
+    {
+      "icon_id": "10540711",
+      "name": "熊猫直播",
+      "font_class": "ruanjian-",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "24381344",
+      "name": "熊猫logo",
+      "font_class": "xiongmaologo",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "30958919",
+      "name": "激活课程熊猫",
+      "font_class": "jihuokechengxiongmao",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "39159291",
+      "name": "熊猫睡觉",
+      "font_class": "xiongmaoshuijue2",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    }
+  ]
+}
