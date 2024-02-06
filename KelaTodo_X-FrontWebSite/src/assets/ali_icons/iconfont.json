@@ -6,6 +6,34 @@
   "description": "KelaTodo-X WEB端 Icont",
   "glyphs": [
     {
+      "icon_id": "1132",
+      "name": "字体",
+      "font_class": "ziti",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "17218533",
+      "name": "铃铛",
+      "font_class": "lingdang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "19449149",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "28280043",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
       "icon_id": "2045907",
       "name": "熊猫秘书",
       "font_class": "weibiaoti-",
