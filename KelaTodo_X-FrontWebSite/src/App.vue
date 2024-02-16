@@ -2,7 +2,7 @@
 <template>
   <MainLayout class="container">
     <template #top>
-      <div>
+      <div class="covered">
         <Taber></Taber>
       </div>
     </template>
@@ -22,4 +22,9 @@
     width: 100%;
     background-color: #f9f9f9;
   }
+  // 铺满
+  .covered{
+    width: 100%;
+    height: 100%;
+}
 </style>

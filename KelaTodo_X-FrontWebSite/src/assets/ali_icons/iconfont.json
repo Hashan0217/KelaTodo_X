@@ -6,6 +6,34 @@
   "description": "KelaTodo-X WEB端 Icont",
   "glyphs": [
     {
+      "icon_id": "181901",
+      "name": "邮箱",
+      "font_class": "mail",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1111451",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "2471410",
+      "name": "主题",
+      "font_class": "zhuti",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "21860781",
+      "name": "个人主页",
+      "font_class": "gerenzhuye",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
       "icon_id": "1132",
       "name": "字体",
       "font_class": "ziti",

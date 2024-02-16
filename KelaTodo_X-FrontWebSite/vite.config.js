@@ -15,11 +15,12 @@ export default defineConfig({
       "@": pathResolve("./src"), // 新增
     },
   },
-  css: {
-    preprocessorOptions: {
-      scss: {
-        additionalData: '@import "@/assets/globStyles/index.scss";'
-      },
-    }
-  }
+  // css: {
+  //   preprocessorOptions: {
+  //     scss: {
+  //       additionalData: '@import "@/main.scss";'
+  //     },
+  //   }
+  // },
+
 })

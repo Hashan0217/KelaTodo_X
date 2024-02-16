@@ -12,7 +12,7 @@
 <style lang="scss" scoped>
 .commonly-container{
         width: 150px;
-        height: 39px;
+        // height: 39px;
         display: flex;
         align-items: center;
         justify-content: center;
